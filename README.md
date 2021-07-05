@@ -6,7 +6,7 @@
 ## Instructions
 This assignment is designed to initiate you into the world of creating web pages using HTML and CSS, employing what you’ve learned thus far and adding your own design sense.
 
-The included `content` folder contains various text files (`.txt`), each related to the review(s) of a particular music album within a specific genre. These range from rap to post-jazz. Your assignment is to create and style a single-page web site using the pre-defined content from *one* of the text files. Copy and paste the text from your chosen file into `index.html`, then markup the text based on what you know about HTML. Finally, style the page with CSS, writing all your CSS into the `style.css` page. There’s no restriction on what you may do design-wise.
+The included `content` folder contains various text files (`.txt`), each related to the review(s) of a particular music album within a specific genre. These range from rap to post-jazz. Your assignment is to create and style a single-page web site using the pre-defined content from *one* of the text files. Copy and paste the text from your chosen file into `index.html`, then markup the text based on what you know about HTML. Finally, style the page with CSS, adding all your CSS to the `style.css` document. There’s no restriction on what you may do design-wise.
 
 ## Before You Begin
 1. Log in to GitHub.
