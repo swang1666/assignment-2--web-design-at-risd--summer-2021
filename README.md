@@ -55,7 +55,7 @@ The included `content` folder contains various text files (`.txt`), each related
 Make sure Atom continually reports `No errors were found!` in the lower left hand corner as you work. Solve validation issues as you work — don’t let them accumulate.
 
 ## Due
-10:00 PM on Friday, 9 July 2021.
+10:00 PM on Wednesday, 14 July 2021.
 
 ## Submission
 You will need to issue a pull request back into the original repo, the one from which your fork was created. See the **Issuing Pull Requests** section of [this site](http://code-warrior.github.io/tutorials/git/github/index.html) for help on how to submit your assignment.
