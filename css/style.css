@@ -1,5 +1,11 @@
 html {
-   background-color: #AC9681
+   background-color: #AC9681;
+   margin-top: 2in;
+   margin-left: 2in;
+   margin-right: 2in;
+}
+figure {
+   text-align: center;
 }
 header {
    color: #7C0303
